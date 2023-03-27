@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#section-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 35%;
+    height: 35px;
+    margin: 20px;
+}
